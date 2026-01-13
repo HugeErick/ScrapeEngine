@@ -1,221 +1,27 @@
 {
   "orderNumber": 1,
-  "url": "https://sistegua.com/nuestras-sucursales",
-  "title": "Sucursales | Sistegua",
+  "url": "https://google.com",
+  "title": "Google",
   "content": [
     {
       "tag": "span",
-      "text": "Follow"
+      "text": "(function(){var id='tsuid_znhmacPzN7edkPIPsd6GwAI_1';document.getElementById(id).onclick = function(){if (this.form.q.value){this.checked = 1;if (this.form.iflsig)this.form.iflsig.disabled = false;}\nelse top.location='/doodles/';};})();"
     },
     {
       "tag": "span",
-      "text": "Follow"
+      "text": "(function(){var id='tsuid_znhmacPzN7edkPIPsd6GwAI_1';document.getElementById(id).onclick = function(){if (this.form.q.value){this.checked = 1;if (this.form.iflsig)this.form.iflsig.disabled = false;}\nelse top.location='/doodles/';};})();"
     },
     {
       "tag": "span",
-      "text": "Follow"
-    },
-    {
-      "tag": "span",
-      "text": ""
-    },
-    {
-      "tag": "span",
-      "text": ""
-    },
-    {
-      "tag": "h4",
-      "text": "info@sistegua.com"
-    },
-    {
-      "tag": "span",
-      "text": "info@sistegua.com"
-    },
-    {
-      "tag": "span",
-      "text": "Follow"
-    },
-    {
-      "tag": "span",
-      "text": "Follow"
-    },
-    {
-      "tag": "span",
-      "text": "Follow"
-    },
-    {
-      "tag": "span",
-      "text": ""
-    },
-    {
-      "tag": "span",
-      "text": ""
-    },
-    {
-      "tag": "h4",
-      "text": "info@sistegua.com"
-    },
-    {
-      "tag": "span",
-      "text": "info@sistegua.com"
-    },
-    {
-      "tag": "h1",
-      "text": "Sucursales"
-    },
-    {
-      "tag": "span",
-      "text": "S"
+      "text": "PublicidadSoluciones EmpresarialesTodo acerca de GoogleGoogle.com.mx© 2026 - Privacidad - Condiciones"
     },
     {
       "tag": "p",
-      "text": "Región Norte"
-    },
-    {
-      "tag": "span",
-      "text": "S"
-    },
-    {
-      "tag": "p",
-      "text": "Región Oriente"
-    },
-    {
-      "tag": "span",
-      "text": "S"
-    },
-    {
-      "tag": "p",
-      "text": "Región Metropolitana"
-    },
-    {
-      "tag": "span",
-      "text": "S"
-    },
-    {
-      "tag": "p",
-      "text": "Región Ciudad"
-    },
-    {
-      "tag": "span",
-      "text": "S"
-    },
-    {
-      "tag": "p",
-      "text": "Región Occidente"
-    },
-    {
-      "tag": "span",
-      "text": "S"
-    },
-    {
-      "tag": "p",
-      "text": "Región Sur"
-    },
-    {
-      "tag": "span",
-      "text": "S"
-    },
-    {
-      "tag": "p",
-      "text": "Región Centro Occidente"
-    },
-    {
-      "tag": "h2",
-      "text": "Región Ciudad"
-    },
-    {
-      "tag": "h2",
-      "text": "Región Metropolitana"
-    },
-    {
-      "tag": "h2",
-      "text": "Región Oriente"
-    },
-    {
-      "tag": "h2",
-      "text": "Región Sur"
-    },
-    {
-      "tag": "h2",
-      "text": "Región Norte"
-    },
-    {
-      "tag": "h2",
-      "text": "Región Occidente"
-    },
-    {
-      "tag": "h2",
-      "text": "Región Centro-Occidente"
-    },
-    {
-      "tag": "p",
-      "text": "En sistegua contamos con un equipo comercial y técnico especializado y profesional que le ofrecerá el mejor asesoramiento para proyectos. ​"
-    },
-    {
-      "tag": "span",
-      "text": "En sistegua contamos con un equipo comercial y"
-    },
-    {
-      "tag": "span",
-      "text": "técnico especializado y profesional que le"
-    },
-    {
-      "tag": "span",
-      "text": "ofrecerá el mejor asesoramiento para proyectos."
-    },
-    {
-      "tag": "span",
-      "text": "​"
-    },
-    {
-      "tag": "span",
-      "text": "Follow"
-    },
-    {
-      "tag": "span",
-      "text": "Follow"
-    },
-    {
-      "tag": "span",
-      "text": "Follow"
-    },
-    {
-      "tag": "h2",
-      "text": "Suscríbete"
-    },
-    {
-      "tag": "span",
-      "text": "*"
-    },
-    {
-      "tag": "span",
-      "text": "*"
-    },
-    {
-      "tag": "span",
-      "text": ":"
-    },
-    {
-      "tag": "span",
-      "text": "Q0.00"
-    },
-    {
-      "tag": "span",
-      "text": "Q0.00"
-    },
-    {
-      "tag": "span",
-      "text": "Q"
-    },
-    {
-      "tag": "span",
-      "text": "0"
-    },
-    {
-      "tag": "span",
-      "text": "Sistegua"
+      "text": "© 2026 - Privacidad - Condiciones"
     }
   ],
-  "scrapedAt": "2025-09-19T05:07:55.738Z",
-  "totalElements": 53
+  "scrapedAt": "2026-01-13T16:54:41.523Z",
+  "totalElements": 4,
+  "summary": "Here's a summary of the scraped text:\n\n**Google Website Content**\n\nThe scraped text appears to be a fragment of the Google website's HTML content. It includes:\n\n1. **JavaScript code**: Two identical code blocks that set up an event listener",
+  "summarizedAt": "2026-01-13T16:54:43.060Z"
 }

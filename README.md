@@ -1,5 +1,9 @@
 # ScrapeEngine (Web Scraper)
 
+[![NodeJS](https://img.shields.io/badge/node->=20%2B-brightgreen)](https://nodejs.org/en)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
+
 ## Description
 
 ScrapeEngine is a lightweight web scraper built using Playwright and Node.js. It extracts content from specified URLs, focusing several html tags, and saves the scraped data into individual JSON files. Each document includes an order number, URL, title, and extracted content for easy reference.
@@ -29,7 +33,7 @@ Before running the scraper, ensure you have the following installed:
    cd ScraperDaper
    ```
 
-2. Install dependencies:
+2. Install dependencies (I use pnpm):
    ```bash
    npm install
    ```
