@@ -12,52 +12,53 @@ This tool is ideal for quickly gathering and organizing textual content from mul
 
 ## Table of Contents
 
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contact](#contact)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [License](#license)
+    - [Contact](#contact)
 
 ## Prerequisites
 
-Before running the scraper, ensure you have the following installed:
+    Before running the scraper, ensure you have the following installed:
 
-1. **Node.js**: Version 16 or higher. Download it from [here](https://nodejs.org/).
-2. **Playwright**: Installed automatically via `npm` or ur favorite package manager.
+    1. **Node.js**: Version 16 or higher. Download it from [here](https://nodejs.org/).
+    2. **Playwright**: Installed automatically via `npm` or ur favorite package manager.
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git https://github.com/HugeErick/ScrapeEngine.git
-   cd ScraperDaper
-   ```
+    1. Clone the repository:
+    ```bash
+    git https://github.com/HugeErick/ScrapeEngine.git
+    cd ScraperDaper
+    ```
 
-2. Install dependencies (I use pnpm):
-   ```bash
-   npm install
-   ```
+    2. Install dependencies (I use pnpm):
+        ```bash
+           npm install
+           ```
 
-3. Install Playwright browsers:
-   ```bash
-   npx playwright install
-   ```
+           3. Install Playwright browsers:
+           ```bash
+           npx playwright install
+           pnpm exec playwright install #or
+           ```
 ## Usage
 
-1. Update the `urls` array in `index.mjs` with the URLs you want to scrape.
-2. Run the scraper:
-   ```bash
-   node index.mjs
-   ```
-3. The scraped data will be saved as individual JSON files in the root directory, named `document_1.json`, `document_2.json`, etc.
+           1. Update the `urls` array in `index.mjs` with the URLs you want to scrape.
+           2. Run the scraper:
+           ```bash
+           node index.mjs
+           ```
+           3. The scraped data will be saved as individual JSON files in the root directory, named `document_1.json`, `document_2.json`, etc.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+           This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-Erick Gonzalez Parada - <erick.parada101@gmail.com>
+           Erick Gonzalez Parada - <erick.parada101@gmail.com>
 
-Project Link: [https://github.com/HugeErick/ScrapeEngine](https://github.com/HugeErick/ScrapeEngine)
+           Project Link: [https://github.com/HugeErick/ScrapeEngine](https://github.com/HugeErick/ScrapeEngine)
 
