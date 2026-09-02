@@ -4,6 +4,7 @@ test-results*
 test-results/
 test-results/*
 scrappedJsons/*
+HTMLsToScrape/*
 mNotes/
 mNotes*
 
